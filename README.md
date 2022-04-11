@@ -1,4 +1,5 @@
-# STREET-LIGHT-MONITORING-SYSTEMThe aim of automated streetlight management system using IOT is the conservation of energy by
+# STREET-LIGHT-MONITORING-SYSTEM 
+The aim of automated streetlight management system using IOT is the conservation of energy by
 reducing electricity wastage as well as to reduce the manpower. Streetlights are the elemental
 part of any city since it facilitates better night visions, secure roads, and exposure to
 public areas but it consumes a quite large proportion of electricity. In the manual streetlight
